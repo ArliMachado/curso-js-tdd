@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Curso de js com tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ArliMachado/curso-js-tdd.git"
+  },
+  "keywords": [
+    "JS",
+    "tdd",
+    "library"
+  ],
+  "author": "Arli Machado <arli.machado@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArliMachado/curso-js-tdd/issues"
+  },
+  "homepage": "https://github.com/ArliMachado/curso-js-tdd#readme"
+}
